@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: phanben110@gmail.com
     phone: 0399 742 099
-    timezone: America/Cancun Timezone
+    timezone: Hanoi/Vietnam Timezone
     citizenship:
     website: phanben110.github.io #do not add http://
     linkedin: phanben110
@@ -29,7 +29,7 @@ sidebar:
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://github.com/phanben110/phanben110.github.io/blob/master/resume/phanben.pdf
+    pdf: 'phanbenCV.pdf'
 
     languages:
       - idiom: Vietnamese
@@ -47,7 +47,6 @@ sidebar:
 
       - item: Cooking
         link:
-
 
 career-profile:
     title: Career Profile
@@ -70,7 +69,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in 
+    - degree: High School Student
       university: Phan Dang Luu High School
       time: 2015 - 2018
       details: |
@@ -103,66 +102,37 @@ experiences:
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
     - role: Vice Precident
       time: 6/2021 - 7/2021
       company: BK-Maker Science Reseach Club, Danang 
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
     - role: Vice Precident
       time: 6/2021 - 7/2021
       company: BK-Maker Science Reseach Club, Danang 
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
     - role: AI Edge Intern
       time: 6/2020 - 11/2020
       company: Tapit, Danang 
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
     - role: Embedded Software Intern
       time: 12/2019 - 4/2020
       company: Software Danang Center, Danang 
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+   
     - role: Research Student
       time: 10/2018 - 6/2022
       company: BK-Maker Lab, Danang 
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
 projects:
     title: Projects
     intro: >
