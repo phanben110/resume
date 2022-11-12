@@ -90,7 +90,7 @@ experiences:
           - Computer vision course 
           - Natural language processing course 
           - Ethics AI Course 
-          
+
     - role: AI Engineer
       time: 5/2021 - 7/2022
       company: FTech AI, Danang
@@ -144,9 +144,8 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
+    
     assignments:
       - title: Anti Covid 19 Face Recognition
         link: "https://www.youtube.com/watch?v=1Sip3_fYQX4&list=PL1q4E0Rwy8o27sNzIEg1Q5byTnPvhw5-4"
