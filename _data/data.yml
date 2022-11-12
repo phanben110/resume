@@ -145,78 +145,80 @@ projects:
     title: Projects
     intro: >
 
-    
+
     assignments:
       - title: Anti Covid 19 Face Recognition
         link: "https://www.youtube.com/watch?v=1Sip3_fYQX4&list=PL1q4E0Rwy8o27sNzIEg1Q5byTnPvhw5-4"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Build a face recognition system to take attendance and track on edge device."
 
       - title: Face Swap CitizenID 
         link: "https://github.com/phanben110/FaceSwapCitizenID"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Build model Face swap to swap photos from one ID Card to another"
 
       - title: Crop and Align CMND
         link: "https://github.com/phanben110/cropAlignCMND"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "This module is used to identify areas of information of interest"
 
       - title: Hand Gesture Recognition
-        link: "https://github.com/phanben110/Hand-Recognition-By-Mediapipe"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        link: "https://www.youtube.com/watch?v=w6yHb8FiDro"
+        tagline: "Build a model that can predict the action of hand gestures"
 
       - title: Compare 5 Method Background Matting
         link: "https://www.youtube.com/watch?v=eYuyhcavwOM&list=PL1q4E0Rwy8o27sNzIEg1Q5byTnPvhw5-4&index=4"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Build a website to demo and test 5 methods of image matting"
 
       - title: Device Assist Blind Person
         link: "https://www.youtube.com/watch?v=5KaTbylw9jA&list=PL1q4E0Rwy8o27sNzIEg1Q5byTnPvhw5-4&index=6"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Devices to assist blind people to move and use devices around"
 
       - title: Face Anti Spoofing 
         link: "https://www.youtube.com/watch?v=BBpkhHEWaxU&list=PL1q4E0Rwy8o27sNzIEg1Q5byTnPvhw5-4&index=2"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Building face anti-spoofing problem to solve spoofing attacks in face recognition system"
 
       - title: Face Mask Detection
         link: "https://www.youtube.com/watch?v=Z1ykT0DukLM&list=PL1q4E0Rwy8o27sNzIEg1Q5byTnPvhw5-4&index=8"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Build a face mask detection model to warn people to wear masks and avoid COVID-19 infection"
       
       - title: PID CONTROLLER MONITORING, ASSESSMENT AND OPTIMIZATION SYSTEM BASED ON MACHINE LEARNING AND SIMATIC IOT2050
         link: "https://github.com/phanben110/BK-Maker-AS-SIMATIC-IOT2050"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Entered the top 9 and top 20 digitization solutions of the SIMATIC IOT2050 contest"
     
       - title: Automatic Hand Sanitizer Machine  
         link: "https://www.youtube.com/watch?v=KN__6MY-LMQ&list=PL1q4E0Rwy8o0AVtNr8bFpRnnHHfKW6g7Z&index=1"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Automatic hand sanitizer machine designed for use at Da Nang hospital"
       
       - title: Smart Medicine Box 
         link: "https://www.youtube.com/watch?v=_OyLm7Kz_Ao&list=PL1q4E0Rwy8o0AVtNr8bFpRnnHHfKW6g7Z&index=7"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Designing a smart pill box that helps the elderly to take their medicine on time and in the right dose"
       
       - title: IoT Projects  
         link: "https://youtube.com/playlist?list=PL1q4E0Rwy8o3xoOMrnTd3MoGlRoSfLUY1"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "This tutorial shows you how to use some cloud services like AWS or Azure applications in some IoT projects"
 
       - title: Robot Three Omni-Directional Wheels 
         link: "https://www.youtube.com/watch?v=WiIC_UjOM_0&list=PL1q4E0Rwy8o237s27DwpW4dpSm2eb1Xup&index=6"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Design an omini robot that uses a real-time operating system to control several tasks at the same time"
 
       - title: ABU ROBOCON2020
         link: "https://www.youtube.com/watch?v=svc_4v5R29c&list=PL1q4E0Rwy8o237s27DwpW4dpSm2eb1Xup&index=1"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "The ABU Asia-Pacific Robot Contest (ABU Robocon) is an Asian-Oceanian college robot competition"
 
       - title: Robodnic 2019
         link: "https://www.youtube.com/watch?v=WcBLuY12le8&list=PL1q4E0Rwy8o237s27DwpW4dpSm2eb1Xup&index=5"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Robotic creation contest for high school students in Da Nang city"
 
       - title: Amazon Web Service
         link: "https://www.youtube.com/watch?v=t1r8GFVd6b0&t=275s"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Several videos show you how to use and install some AWS services"
+
+      - title: NLP Project | Poem Generator
+        link: "https://www.youtube.com/watch?v=dV_1-jQSnQ4"
+        tagline: "This is a project Natural Language Processing with AI theme that automatically generates poetry"
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+
     papers:
       - title: Deep Learning Framework Applied for Predicting Anomaly of Respiratory Sounds
         link: "https://ieeexplore.ieee.org/abstract/document/9418742"
