@@ -230,13 +230,16 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python
+      - name: Python, C, C++
         level: 98%
+
+      - name: Machine learning and Deep learning 
+        level: 70%
 
       - name: Pytorch, Tensorflow
         level: 70%
 
-      - name: C, C++
+      - name: AWS, Azure
         level: 80%
 
       - name: Pandas, Numpy, Matplotlib 
