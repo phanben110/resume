@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: phanben110@gmail.com
-    phone: 0399 742 099
+    phone: (+84) 399 742 099
     timezone: Hanoi/Vietnam Timezone
     citizenship:
     website: phanben110.github.io #do not add http://
@@ -51,10 +51,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am an AI engineer. I grew up in a dreamy city and located in central Vietnam on the banks of Huong River.
-      🎓 I'm currently a senior year student at University of Science and Technology - The University of Danang, majoring in Control Engineering and Automation.
-      🔭 I am also studying and working on machine learning, deep learning.
-      🤖 I'm a big fan of Robots! I have participated in many robot competitions such as MiniRobocon 2019, Robodnic 2019, ABU Robocon 2020. I really want to create a robot with artificial intelligence close to human, that's why I decided to focus my research and work in the field of artificial intelligence.
+      I'm an AI engineer at VinBigdata, where I optimize AI models for monitoring VinFast's manufacturing operations. 
+      With my expertise in machine learning and computer vision, I'm passionate about developing cutting-edge AI technologies that can mimic human intelligence. 
+      I've competed in several domestic and international robotics competitions, and I'm excited about the potential for AI to revolutionize our lives and shape the future of technology.
+
+Research interests: Deep Learning, Machine Learning, Optimization, Applied Mathematics, industrial systems.
+
 education:
     - degree: BSc in Automation Engineering 
       university: Danang University Of Science And Technology
@@ -99,13 +101,6 @@ experiences:
           - Image processing
           - Deeplearning and machine learning
           - GAN archicture
-
-    - role: Class president of class 18TDH1
-      time: 6/2019 - now
-      company: Danang University Of Science And Technology, Danang 
-      details: |
-          - Leadership 
-          - Organize events
 
     - role: Vice Precident
       time: 6/2021 - 7/2022
@@ -222,7 +217,7 @@ publications:
     papers:
       - title: Deep Learning Framework Applied for Predicting Anomaly of Respiratory Sounds
         link: "https://ieeexplore.ieee.org/abstract/document/9418742"
-        authors: D Ngo, L Pham, A Nguyen, B Phan, K Tran, T Nguyen
+        authors: D Ngo, L Pham, A Nguyen, Ben Phan, K Tran, T Nguyen
         conference: The 2021 International Symposium on Electrical and Electronics Engineering (ISEE 2021), IEEE Computer Society, HCMC, 2021
 
 
